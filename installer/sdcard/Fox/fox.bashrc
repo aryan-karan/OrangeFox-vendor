@@ -32,5 +32,5 @@ alias makediff="diff -u -d -w -B"
 alias makediff_recurse="diff -U3 -d -w -rN"
 
 # go to a neutral location
-cd /tmp
+cd /sdcard
 #
